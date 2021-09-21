@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Adem\source\repos\CourseW0rk\CourseW0rk\list.h(165,34): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseW0rk\CourseW0rk\list.h(183,31): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseW0rk\CourseW0rk\list.h(184,30): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseW0rk\CourseW0rk\list.h(195,30): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseW0rk\CourseW0rk\Graphs.h(202,27): warning C4018: <: несоответствие типов со знаком и без знака
+  CourseW0rk.vcxproj -> C:\Users\Adem\source\repos\CourseW0rk\Debug\CourseW0rk.exe
